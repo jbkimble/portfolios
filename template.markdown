@@ -34,16 +34,11 @@ Evaluation comments:
 * good separation of responsibilities
 * consistent use of recursion across all methods, doesnt waffle back to looping
 
-1. Functional Expectations
-* 1: Application is missing more than one base expectation
-2. Test-Driven Development
-* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
-3. Encapsulation / Breaking Logic into Components
-* 4: Application is expertly divided into logical components each with a clear, single responsibility
-4. Fundamental Ruby & Style
-* 3: Application shows strong effort towards organization, content, and refactoring
-5. Looping or Recursion
-* 3.5: Application makes effective use of loop/recursion techniques
+1: Application is missing more than one base expectation
+3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test
+4: Application is expertly divided into logical components each with a clear, single responsibility
+3: Application shows strong effort towards organization, content, and refactoring
+3.5: Application makes effective use of loop/recursion techniques
 
 #### (Event Reporter)
 
@@ -60,20 +55,13 @@ Evaluation comments:
 * District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
 
 Evaluation Scores:
-1. Functional Expectations
-  * 2: Application has some missing functionality but no crashes
-2. REPL Interface
- * 3: Application's REPL is clear and pleasant to use
-3. Test-Driven Development
- * 2: Application makes some use of tests, but the coverage is insufficient
-4. Breaking Logic into Components
-* 3: Application effectively breaks logical components apart with clear intent and usage
-5. Fundamental Ruby & Style
-* 3: Application shows strong effort towards organization, content, and refactoring
-6. Enumerable & Collections
-* 3: Application demonstrates comfortable use of several Enumerable techniques
-7. HTML and Style
-* 3: HTML is valid and has all correct data.
+2: Application has some missing functionality but no crashes
+3: Application's REPL is clear and pleasant to use
+2: Application makes some use of tests, but the coverage is insufficient
+3: Application effectively breaks logical components apart with clear intent and usage
+3: Application shows strong effort towards organization, content, and refactoring
+3: Application demonstrates comfortable use of several Enumerable techniques
+3: HTML is valid and has all correct data.
 
 ## C: Group Work & Projects
 
