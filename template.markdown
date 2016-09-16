@@ -35,6 +35,7 @@ Evaluation comments:
 * consistent use of recursion across all methods, doesnt waffle back to looping
 
 1: Application is missing more than one base expectation
+
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test
 4: Application is expertly divided into logical components each with a clear, single responsibility
 3: Application shows strong effort towards organization, content, and refactoring
