@@ -23,7 +23,7 @@ This module I set out to learn as much as possible about the ruby programming la
 
 My two individual projects 
 
-#### (Date Night)
+#### Date Night
 * GitHub Link: https://github.com/jbkimble/date_night
 * Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown
 
@@ -35,15 +35,15 @@ Evaluation comments:
 * consistent use of recursion across all methods, doesnt waffle back to looping
 
 1. Functional Expectations
-*1: Application is missing more than one base expectation
+* 1: Application is missing more than one base expectation
 2. Test-Driven Development
-*3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+* 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
 3. Encapsulation / Breaking Logic into Components
-*4: Application is expertly divided into logical components each with a clear, single responsibility
+* 4: Application is expertly divided into logical components each with a clear, single responsibility
 4. Fundamental Ruby & Style
-*3: Application shows strong effort towards organization, content, and refactoring
+* 3: Application shows strong effort towards organization, content, and refactoring
 5. Looping or Recursion
-*3.5: Application makes effective use of loop/recursion techniques
+* 3.5: Application makes effective use of loop/recursion techniques
 
 #### (Event Reporter)
 
@@ -54,11 +54,11 @@ Description:
 
 Notes:
 
-*12 tests
-*Pull out CSV stuff
-*overall good. Sweet use of emojis
-*Dont have messages puts, have module return just the text and print on the outside to test
-*District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
+* 12 tests
+* Pull out CSV stuff
+* overall good. Sweet use of emojis
+* Dont have messages puts, have module return just the text and print on the outside to test
+* District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
 
 Evaluation Scores:
 
@@ -75,7 +75,7 @@ Evaluation Scores:
 6. Enumerable & Collections
 * 3: Application demonstrates comfortable use of several Enumerable techniques
 7. HTML and Style
-*3: HTML is valid and has all correct data.
+* 3: HTML is valid and has all correct data.
 
 ## C: Group Work & Projects
 
