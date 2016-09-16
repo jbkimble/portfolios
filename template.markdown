@@ -23,20 +23,45 @@ This module I set out to learn as much as possible about the ruby programming la
 
 My two individual projects 
 
-#### (Project Name)
+#### (Date Night)
+* GitHub Link: https://github.com/jbkimble/date_night
+* Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown
+
+Description: In date night we worked with binary search trees and the ability to insert into a binary search tree, tell the depth of a specific node, find the depth of a node, and return the minumum node and the maximum node
+
+Evaluation comments:
+* not full functionality, starting on sort method
+* good separation of responsibilities
+* consistent use of recursion across all methods, doesnt waffle back to looping
+
+1. Functional Expectations
+*1: Application is missing more than one base expectation
+2. Test-Driven Development
+*3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+3. Encapsulation / Breaking Logic into Components
+*4: Application is expertly divided into logical components each with a clear, single responsibility
+4. Fundamental Ruby & Style
+*3: Application shows strong effort towards organization, content, and refactoring
+5. Looping or Recursion
+*3.5: Application makes effective use of loop/recursion techniques
+
+#### (Event Reporter)
 
 * GitHub Link: https://github.com/jbkimble/event_reporter
 * Assignment Link: https://github.com/turingschool/ruby-submissions/blob/master/1608-b/event_reporter.markdown
 
+Description:
+
 Notes:
 
-12 tests
-Pull out CSV stuff
-overall good. Sweet use of emojis
-DOnt have messages puts, have module return just the text and print on the outside to test
-District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
+*12 tests
+*Pull out CSV stuff
+*overall good. Sweet use of emojis
+*Dont have messages puts, have module return just the text and print on the outside to test
+*District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
 
-(evaluation scores)
+Evaluation Scores:
+
 1. Functional Expectations
   * 2: Application has some missing functionality but no crashes
 2. REPL Interface
@@ -51,14 +76,6 @@ District info is gotten but is not saved to the attendee objects, and therefore 
 * 3: Application demonstrates comfortable use of several Enumerable techniques
 7. HTML and Style
 *3: HTML is valid and has all correct data.
-
-* [GitHub URL](https://github.com/jbkimble/date_night)
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown)
-(description)
-
-(evaluation comments)
-
-(evaluation scores)
 
 ## C: Group Work & Projects
 
