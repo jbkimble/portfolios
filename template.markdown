@@ -48,12 +48,11 @@ Evaluation comments:
 #### (Event Reporter)
 
 * GitHub Link: https://github.com/jbkimble/event_reporter
-* Assignment Link: https://github.com/turingschool/ruby-submissions/blob/master/1608-b/event_reporter.markdown
+* Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown
 
-Description:
-
-Notes:
-
+Description: In event reported we worked with csv files and a REPL interface.  We learned about searching through csv data, building methods, and outputting or results to various file types.
+ 
+Evaluation comments:
 * 12 tests
 * Pull out CSV stuff
 * overall good. Sweet use of emojis
@@ -61,7 +60,6 @@ Notes:
 * District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
 
 Evaluation Scores:
-
 1. Functional Expectations
   * 2: Application has some missing functionality but no crashes
 2. REPL Interface
