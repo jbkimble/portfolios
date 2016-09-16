@@ -25,8 +25,8 @@ My two individual projects
 
 #### (Project Name)
 
-* [GitHub URL](https://github.com/jbkimble/event_reporter)
-* [Original Assignment](https://github.com/turingschool/ruby-submissions/blob/master/1608-b/event_reporter.markdown)
+* GitHub Link: https://github.com/jbkimble/event_reporter
+* Assignment Link: https://github.com/turingschool/ruby-submissions/blob/master/1608-b/event_reporter.markdown
 
 Notes:
 
