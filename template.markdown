@@ -37,8 +37,11 @@ Evaluation comments:
 1: Application is missing more than one base expectation
 
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test
+
 4: Application is expertly divided into logical components each with a clear, single responsibility
+
 3: Application shows strong effort towards organization, content, and refactoring
+
 3.5: Application makes effective use of loop/recursion techniques
 
 #### (Event Reporter)
@@ -57,11 +60,17 @@ Evaluation comments:
 
 Evaluation Scores:
 2: Application has some missing functionality but no crashes
+
 3: Application's REPL is clear and pleasant to use
+
 2: Application makes some use of tests, but the coverage is insufficient
+
 3: Application effectively breaks logical components apart with clear intent and usage
+
 3: Application shows strong effort towards organization, content, and refactoring
+
 3: Application demonstrates comfortable use of several Enumerable techniques
+
 3: HTML is valid and has all correct data.
 
 ## C: Group Work & Projects
