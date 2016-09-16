@@ -34,6 +34,8 @@ Evaluation comments:
 * good separation of responsibilities
 * consistent use of recursion across all methods, doesnt waffle back to looping
 
+Evaluation Scores:
+
 1: Application is missing more than one base expectation
 
 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test
@@ -59,6 +61,7 @@ Evaluation comments:
 * District info is gotten but is not saved to the attendee objects, and therefore is not included in CSV or html export
 
 Evaluation Scores:
+
 2: Application has some missing functionality but no crashes
 
 3: Application's REPL is clear and pleasant to use
