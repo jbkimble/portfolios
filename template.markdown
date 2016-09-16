@@ -80,14 +80,36 @@ Evaluation Scores:
 
 ### Projects
 
-(Intro)
+Here are both of my group projects.  These projects were an opportunity to work on my pairing and teamworks skills as well as expand my ability to solve problems with ruby.
 
-#### (Project Name)
+#### Enigma
 
-* [GitHub URL]()
-* [Original Assignment]()
+* Github URL: https://github.com/mscherer11/enigma-copy
+* Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown
 
-(description)
+Description: In this project we built a virtual enigma machine to encrypt, crack, and decrypt messages
+
+Evaluation comments:
+* test coverage is sparse
+* separation of responsibilities is done well
+* crack method was not complete
+* did use 127 character alphabet using ascii map
+
+Evaluation Scores:
+* 2: Application is missing one of the three operations
+* 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+* 2: Application tests some components but has many gaps in coverage.
+* 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
+
+
+(feedback to me)
+
+#### (HeadCount)
+
+* GitHub URL: https://github.com/JStans12/headcount
+* Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
+
+Description: In this project we create a program that allows us to load multiple csv files with data about colorado school districts and draw relationships between the data.
 
 (evaluation comments)
 
