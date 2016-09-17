@@ -46,7 +46,7 @@ Evaluation Scores:
 
 3.5: Application makes effective use of loop/recursion techniques
 
-#### (Event Reporter)
+#### Event Reporter
 
 * GitHub Link: https://github.com/jbkimble/event_reporter
 * Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/event_reporter.markdown
@@ -104,7 +104,7 @@ Evaluation Scores:
 
 Feedback To Me:
 
-#### (HeadCount)
+#### HeadCount
 
 * GitHub URL: https://github.com/JStans12/headcount
 * Assignment: https://github.com/turingschool/curriculum/blob/master/source/projects/headcount.markdown
@@ -115,40 +115,76 @@ Evaluation Comments:  Pending ...
 
 Evaluation Scores:   Pending ... 
 
-Feedback To Me
+Feedback To Me:
 
 ## D: Professional Skills
 (Intro)
 
 ### Gear Up
+#### Getting Better At Difficult Things
+
+* Github URL: https://github.com/turingschool/gear-up/blob/master/getting_better_at_difficult_things.markdown
+
+Takeaways from the session:
+
+* Break down problems into small chunks and master one tiny piece at a time before moving onto the next
+* Maintain growth mindset and a calm learning state of mind even in the face of difficult material
+* Expose youself repeatedly to lots of good examples of what you are trying to learn
+* Surround yourself with the best and learn from the best
+
+#### There Is An "I" In Team
+
+* Github URL: https://github.com/turingschool/gear-up/blob/master/there_is_an_i_in_team.markdown
+
+Takeaways from the session:
+
+* It is important to set boundaries in a team project and to respect the boundaries of your team mates
+* It is super important to be compassionate and recognize the humanity of your teammates
+* Problems within a team can arise for a number of reasons (different communication styles, approach, a skill gap between members etc.) Completing a DTR is super important, also set yourself up for open communication and address any problems in a respectful way as soon as your notice them.
+
 #### (Session Name)
 
-* [GitHub URL]()
+* Github URL: https://github.com/turingschool/gear-up/blob/master/code_debugging_the_gender_gap.markdown
 
-(takeaways from session)
+Takeaways from the session:
+
+* There are far fewer women in the tech industry than men and this takes away teams and the products they create
+* Because of the male dominated culuture it can lead to institutionalized sexism and further push women and minorities away from the industry
+* Be mindful of others and how to make them feel comfortable in a space
+* Take agency in creating an inclusive and diverse tech community (let everyone know that tech is for them and they can succeed here)
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Defining the Relationship
 
-* [Workshop URL]()
-* [Link to Completed Deliverables]()
+* Workshop URL: https://docs.google.com/presentation/d/1W64y2vBOrd6hVyHEvFKwtMgQvuHIgkOzngHrDt4JwEQ/edit?usp=sharing
+* Link to Completed Deliverables: https://docs.google.com/document/d/1oMRbrQ63JgPOkidjxzaTVFMhmLJj_cQa12HxZ7Ydkfk/edit?usp=sharing
+* 
+https://docs.google.com/document/d/1Xxa41ZXtwoKrqljOrrLzs4pdGKw-8J4e8WQlbrafH1U/edit?usp=sharing
 
-(takeaways from session)
+Takeaways:
+* It is important to define the relationship at the start of any sort of team work, this sets expectations, brings up any potential difficulties, and allows the team to figure out how to communicate and work best together
+* Have regular follow up DTR's.  Open communication is key.
+* Take agency in upholding the expectations that are set and ensuring the team works well together
 
 ## E: Feedback and Community Participation
 
 ### Giving Feedback
 
-(feedback from me)
+Feedback from me:
+Lee
+Mike
+Ryan
+Joey
 
 ### Being a Community Member
 
-(feedback to me)
+Feedback to me:
 
 ### Playing a Part
 
-(ways you supported the larger Turing community)
+Ways you supported the larger Turing community:
+
 
 ------------------
 
