@@ -27,7 +27,7 @@ My two individual projects
 * GitHub Link: https://github.com/jbkimble/date_night
 * Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown
 
-Description: In date night we worked with binary search trees and the ability to insert into a binary search tree, tell the depth of a specific node, find the depth of a node, and return the minumum node and the maximum node
+Description: In date night we worked with binary search trees and the ability to insert into a binary search tree, tell the depth of a specific node, find the depth of a node, and return the minimum node and the maximum node.  It was a challenging project that required us to learn about basic data structures.  Through this project I learned more about how to breakdown and tackle hard problems and apply recursion.  It greatly increased my confidence in my programming ability.
 
 Evaluation comments:
 * not full functionality, starting on sort method
@@ -80,7 +80,7 @@ Evaluation Scores:
 
 ### Projects
 
-Here are both of my group projects.  These projects were an opportunity to work on my pairing and teamworks skills as well as expand my ability to solve problems with ruby.
+Here are both of my group projects. These projects were an opportunity to work on my pairing and teamworks skills as well as expand my ability to solve problems with ruby.   I enjoyed working with a team and putting our heads together on a problem. I learned more about my own working style, areas of strength, and how to approach a problem in a way that leads to success.
 
 #### Enigma
 
@@ -102,7 +102,7 @@ Evaluation Scores:
 * 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
-(feedback to me)
+Feedback To Me:
 
 #### (HeadCount)
 
@@ -111,11 +111,11 @@ Evaluation Scores:
 
 Description: In this project we create a program that allows us to load multiple csv files with data about colorado school districts and draw relationships between the data.
 
-(evaluation comments)
+Evaluation Comments:  Pending ...
 
-(evaluation scores)
+Evaluation Scores:   Pending ... 
 
-(feedback to me)
+Feedback To Me
 
 ## D: Professional Skills
 (Intro)
