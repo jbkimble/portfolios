@@ -103,6 +103,7 @@ Evaluation Scores:
 
 
 Feedback To Me:
+* 
 
 #### HeadCount
 
@@ -118,7 +119,7 @@ Evaluation Scores:   Pending ...
 Feedback To Me:
 
 ## D: Professional Skills
-(Intro)
+At Turing there is an emphasis in devloping proffesional skills as well as technical skills.  Proffesional skills help us find longterm success in the industry, be more effective, and give back to our communities.  They are an important part of the Turing curiculum.
 
 ### Gear Up
 #### Getting Better At Difficult Things
@@ -127,10 +128,7 @@ Feedback To Me:
 
 Takeaways from the session:
 
-* Break down problems into small chunks and master one tiny piece at a time before moving onto the next
-* Maintain growth mindset and a calm learning state of mind even in the face of difficult material
-* Expose youself repeatedly to lots of good examples of what you are trying to learn
-* Surround yourself with the best and learn from the best
+In order to learn rapidlly there are several things to keep in mind: First don't try to learn every aspect of a new skill at once, instead break down problems into small chunks and master one tiny piece at a time before moving onto the next.  It is also vital to maintain growth mindset and a calm learning state of mind even in the face of difficult material, with repeated practice you can learn material that seemed impossible at first.  One way to accelerate your learning is to expose youself repeatedly to lots of good examples of what you are trying to learn.  Finally community is an important part of learning and in order to reach your full potential you must surround yourself with the best and learn from the best.
 
 #### There Is An "I" In Team
 
@@ -138,9 +136,8 @@ Takeaways from the session:
 
 Takeaways from the session:
 
-* It is important to set boundaries in a team project and to respect the boundaries of your team mates
-* It is super important to be compassionate and recognize the humanity of your teammates
-* Problems within a team can arise for a number of reasons (different communication styles, approach, a skill gap between members etc.) Completing a DTR is super important, also set yourself up for open communication and address any problems in a respectful way as soon as your notice them.
+In this session we learned about the importantance of setting boundaries in a team project and to respect the boundaries of your team mates.  In order to be the best teammate possible it is important to be compassionate and recognize the humanity of your teammates, even if it doesn't appear so everyone is doing their best and you should see things from their viewpoint and support them in whatever way is necessary to bring out their best selves.
+During discussion we touch on several reasons that lead to problems amoung teams and how to minimize these issues: different communication styles, work flow, and skill gaps between team members seemed to be the most common problems faced by teams. To mitigate these challenges Completing a DTR is super important, also set yourself up for open communication and address any problems in a respectful way as soon as your notice them.
 
 #### (Session Name)
 
