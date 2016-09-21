@@ -27,7 +27,7 @@ My two individual projects
 * GitHub Link: https://github.com/jbkimble/date_night
 * Assignment Link: https://github.com/turingschool/curriculum/blob/master/source/projects/date_night.markdown
 
-Description: In date night we worked with binary search trees and the ability to insert into a binary search tree, tell the depth of a specific node, find the depth of a node, and return the minimum node and the maximum node.  It was a challenging project that required us to learn about basic data structures.  Through this project I learned more about how to breakdown and tackle hard problems and apply recursion.  It greatly increased my confidence in my programming ability.
+Description: In date night we worked with binary search trees and the ability to insert into a binary search tree, tell the depth of a specific node, and return the minimum node and the maximum node.  It was a challenging project that required us to learn about basic data structures.  During this project I learned more about how to breakdown and tackle hard problems and apply recursion.  It greatly increased my confidence in my programming ability.
 
 Evaluation comments:
 * not full functionality, starting on sort method
