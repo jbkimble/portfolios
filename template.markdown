@@ -103,7 +103,7 @@ Evaluation Scores:
 
 
 Feedback To Me:
-Jon was a great person to work with. He was very insightful in
+* Jon was a great person to work with. He was very insightful in
 not only how we should plan out our project but also in ways
 that we could solve problems that we were working with. He was
 very willing to put the time in to work on our projects and
@@ -111,6 +111,9 @@ get things done, both coming in on the weekend for extended
 periods of time as well as staying late after class. He had a
 positive attitude even when we would run into issues and that
 made for a positive working environment.
+Jon,
+
+* It was awesome working with you on the Enigma project.  You had a lot of great insights and provided a major contribution overall.  You are thoughtful, insightful, and always willing to listen others; all of which were on display during the course of the project.  I was particularly impressed with the amount of thought that would go into anticipated logic overnight.  It was clear that you were organized, and cared about the success of the team.  You were a team-player throughout, but this was particularly on display at the end, when you agreed to take on the crack functionality alone.  I've noticed that you are always willing to contribute to the community as a whole in the same manner you contributed to our team.  Although minor and seemed to be a isolated issue (this would be feedback for the whole team), when you are feeling lost or misunderstanding, don't hesitate to speak up.  Overall, it was great working with you, and I hope we get to do it again in the future.
 
 #### HeadCount
 
@@ -124,7 +127,7 @@ Evaluation Comments:  Pending ...
 Evaluation Scores:   Pending ...
 
 Feedback To Me:
-Jon, it's been good working though hell count with you. It has gone really smoothly in terms of general DTR stuff and it's also nice that we are able to fill in the gaps in each other's code. If I'm forced to look for flaws, I think that coding stamina is an area where we could both improve. There were a couple days were we found ourselves completely braindead and decided to head out early. I think this will get better with time, and luckily, it wasn't an issue on this project.
+* Jon, it's been good working though hell count with you. It has gone really smoothly in terms of general DTR stuff and it's also nice that we are able to fill in the gaps in each other's code. If I'm forced to look for flaws, I think that coding stamina is an area where we could both improve. There were a couple days were we found ourselves completely braindead and decided to head out early. I think this will get better with time, and luckily, it wasn't an issue on this project.
 
 ## D: Professional Skills
 At Turing there is an emphasis in developing professional skills as well as technical skills.  Professional skills help us find longterm success in the industry, be more effective, and give back to our communities.  They are an important part of the Turing curriculum.
