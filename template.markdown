@@ -142,9 +142,21 @@ Jon,
 
 Description: In this project we create a program that allows us to load multiple csv files with data about colorado school districts and draw relationships between the data.
 
-Evaluation Comments:  Pending ...
+Evaluation Comments:  
+* test harness - iteration 5, no failures, no errors
+* test suite - 82 tests, 116 assertions, 0 errors, 0 failures - 100% coverage
+* good unit testing and separation of responsbilities
+* good use of modules and creation of helper methods along the way
+* some long methods could be refactored
+* "joey is a reduce ninja" -jon kimble
 
-Evaluation Scores:   Pending ...
+Evaluation Scores:
+1. 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+2. 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+3. 3: Application effectively breaks logical components apart but breaks the principle of SRP
+4. 3: Application shows strong effort towards organization, content, and refactoring
+5. 4: Application consistently makes use of the best-choice Enumerable methods
+6. 4: Zero complaints
 
 Feedback To Me:
 * Jon, it's been good working though hell count with you. It has gone really smoothly in terms of general DTR stuff and it's also nice that we are able to fill in the gaps in each other's code. If I'm forced to look for flaws, I think that coding stamina is an area where we could both improve. There were a couple days were we found ourselves completely braindead and decided to head out early. I think this will get better with time, and luckily, it wasn't an issue on this project.
