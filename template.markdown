@@ -160,6 +160,7 @@ At Turing there is an emphasis in developing professional skills as well as tech
 Takeaways from the session:
 
 In order to learn rapidly there are several things to keep in mind: First don't try to learn every aspect of a new skill at once, instead break down problems into small chunks and master one tiny piece at a time before moving onto the next.  It is also vital to maintain growth mindset and a calm learning state of mind even in the face of difficult material, with repeated practice you can learn material that seemed impossible at first.  One way to accelerate your learning is to expose yourself repeatedly to lots of good examples of what you are trying to learn.  Finally, community is an important part of learning and in order to reach your full potential you must surround yourself with the best and learn from the best.
+Lastly it is vital to be mindful of your limited cognitive reasources and apply them judiciously to achieve maximum results.
 
 #### There Is An "I" In Team
 
