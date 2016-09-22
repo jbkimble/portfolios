@@ -116,6 +116,7 @@ Evaluation comments:
 * did use 127 character alphabet using ascii map
 
 Evaluation Scores:
+
 1. 2: Application is missing one of the three operations
 
 2. 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
@@ -154,6 +155,7 @@ Evaluation Comments:
 * "joey is a reduce ninja" -jon kimble
 
 Evaluation Scores:
+
 1. 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
 
 2. 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
