@@ -117,8 +117,11 @@ Evaluation comments:
 
 Evaluation Scores:
 1. 2: Application is missing one of the three operations
+
 2. 3:  Application shows some effort toward organization but still has 6 or fewer long methods (> 8 lines) and needs some refactoring.
+
 3. 2: Application tests some components but has many gaps in coverage.
+
 4. 3.5: Application has multiple components with defined responsibilities but there is some leaking of responsibilities
 
 
@@ -152,10 +155,15 @@ Evaluation Comments:
 
 Evaluation Scores:
 1. 3: Application fulfills expectations of Iterations 0 - 4 as well as one of Iterations 5 or 6
+
 2. 3: Application is well tested but does not balance isolation and integration tests, using only the data necessary to test the functionality
+
 3. 3: Application effectively breaks logical components apart but breaks the principle of SRP
+
 4. 3: Application shows strong effort towards organization, content, and refactoring
+
 5. 4: Application consistently makes use of the best-choice Enumerable methods
+
 6. 4: Zero complaints
 
 Feedback To Me:
@@ -269,7 +277,7 @@ What you are saying thus has more weight because you've studied the thing and re
 some books and have tried applying what they espouse in your own life. This was first
 exhibited when you sent me a large snippet entailing how one might go about rewiring
 their likes and dislikes. Another occasion you provided some background on types
-of mediation, in full pdf form! I really appreciate the laughs and support!
+of meditation, in full pdf form! I really appreciate the laughs and support!
 
 ##### Feedback From Eric
 * Jon, you are team Zen in 1608. I always hear you laughing which lightens my spirits on hard days — oh, wait that’s everyday. You offered me excellent techniques in managing stress, I’m grateful for it.
