@@ -16,7 +16,27 @@ This module I set out to learn as much as possible about the ruby programming la
 
 ## A: End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Assessed By: Jeff
+
+Evaluation comments:
+* Some troubles jumping to tools first and figuring out what you want second
+* Understanding the boundaries of multiple objects is a bit fuzzy
+* Process is getting better the more we work
+* Enumerables vocabulary seems better than your comfort with what for what job
+
+Evaluation Scores:
+
+1. 3: Developer is able to write Ruby with some debugging of fundamental concepts
+ 
+2. 3: Developer completes baseline assignment and makes meaningful progress toward one of the Challenge options.
+
+3. 3: Developer writes tests that are effective validation of functionality, but don't drive the design
+
+4. 3: Developer demonstrates comfort with their tools and makes some use of keyboard shortcuts
+
+5. 3: Developer lays out their thinking before attacking a problem and integrates feedback through the process
+
+6. 3: Application demonstrates comfortable use of appropriate Enumerable methods
 
 
 ## B: Individual Work & Projects
